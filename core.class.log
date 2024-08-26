@@ -1,0 +1,58 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '59165550111@s.whatsapp.net',
+    fromMe: false,
+    id: '5E18E3A5F01BF2CF45A3E2B18D4C8AE2',
+    participant: undefined
+  },
+  messageTimestamp: 1724693275,
+  pushName: 'Devil🤪',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bot',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Bot',
+  from: '59165550111'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_30db835a-c069-49b4-89f6-fff7c202109a',
+  keyword: 'key_c8995b3d-23a5-4ec8-b721-914cf2be292b',
+  answer: 'hola Joel cual es tu consulta? 🫡',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '77da4b67252f0d0e9110e0a1e4caf5af'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59165550111@s.whatsapp.net',
+    fromMe: false,
+    id: 'ACD8D636380A826E9CAF2FDA00F161E2',
+    participant: undefined
+  },
+  messageTimestamp: 1724693284,
+  pushName: 'Devil🤪',
+  broadcast: false,
+  message: Message {
+    conversation: 'Como estas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Como estas',
+  from: '59165550111'
+}
