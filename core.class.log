@@ -2,57 +2,37 @@
   key: {
     remoteJid: '59165550111@s.whatsapp.net',
     fromMe: false,
-    id: '5E18E3A5F01BF2CF45A3E2B18D4C8AE2',
+    id: 'B916311CEBB918138006011332B0E1B3',
     participant: undefined
   },
-  messageTimestamp: 1724693275,
+  messageTimestamp: 1724695164,
   pushName: 'Devil🤪',
   broadcast: false,
   message: Message {
-    conversation: 'Bot',
+    conversation: 'H',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Bot',
+  body: 'H',
   from: '59165550111'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_30db835a-c069-49b4-89f6-fff7c202109a',
-  keyword: 'key_c8995b3d-23a5-4ec8-b721-914cf2be292b',
-  answer: 'hola Joel cual es tu consulta? 🫡',
+  ref: 'ans_c3bc5e8a-0e1d-4444-b93d-63060662e5a9',
+  keyword: 'key_f1bb06e0-5952-4020-bb70-099283778b19',
+  answer: 'Este es el flujo Welcome',
   options: {
-    media: null,
+    media: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShz8drx56zX6zBi1AviE26-JJfoVBwvfheYsVQZlJiE_gx4B--J-0kxDl5rHQjY9PbgcA&usqp=CAU',
     buttons: [],
-    capture: true,
+    capture: false,
     child: null,
-    delay: 0,
+    delay: 100,
     idle: null,
     ref: null,
     nested: [],
     keyword: {},
     callback: true
   },
-  refSerialize: '77da4b67252f0d0e9110e0a1e4caf5af'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '59165550111@s.whatsapp.net',
-    fromMe: false,
-    id: 'ACD8D636380A826E9CAF2FDA00F161E2',
-    participant: undefined
-  },
-  messageTimestamp: 1724693284,
-  pushName: 'Devil🤪',
-  broadcast: false,
-  message: Message {
-    conversation: 'Como estas',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Como estas',
-  from: '59165550111'
+  refSerialize: 'bffcc9a461f79a614a8a13a5232d632b'
 }
